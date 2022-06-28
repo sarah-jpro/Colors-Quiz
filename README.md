@@ -5,7 +5,7 @@
 </p>
 
 
-# 🌈 Colors-Quiz
+# 🌈 Colors-Quiz❔
 
 ## Learn with fun
 Colors-Quiz is a small game created during my personal learning to review JavaScript
@@ -23,7 +23,7 @@ Languages:
 
 # Overview 🔎
 
-## View Complete Game : ➡️
+## View Complete Game : ➡️ https://sarah-jpro.github.io/Colors-Quiz/
 
 <p align="center">
  <img src="vue-projet0.jpeg" width="800">
